@@ -3,4 +3,8 @@
 
     <string name="question">ภาพต่อไปนี้ เป็นเงาของสัตว์ชนิดใด</string>
 
+    <string name="name">Name</string>
+
+    <string name="hint">กรุณาใส่ชื่อ</string>
+
 </resources>
